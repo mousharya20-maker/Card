@@ -19,7 +19,6 @@ body{
 }
 
 .card{
-    border-radius: 5%;
     background-color: white;
     width: 300px;
     margin: 20px auto;
